@@ -1,0 +1,15 @@
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/bin/Debug/net6.0/HW_task68
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/bin/Debug/net6.0/HW_task68.deps.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/bin/Debug/net6.0/HW_task68.runtimeconfig.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/bin/Debug/net6.0/HW_task68.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/bin/Debug/net6.0/HW_task68.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.csproj.AssemblyReference.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.AssemblyInfoInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.AssemblyInfo.cs
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.csproj.CoreCompileInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/refint/HW_task68.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/HW_task68.genruntimeconfig.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_8/HW_task68/obj/Debug/net6.0/ref/HW_task68.dll
